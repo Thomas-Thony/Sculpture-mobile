@@ -1,0 +1,4 @@
+Pour le RTC DS3231 :
+https://www.arduino.cc/reference/en/libraries/ds3231/
+
+TFT et SPI (écran TFT): 
