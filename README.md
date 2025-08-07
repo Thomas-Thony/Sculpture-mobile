@@ -9,3 +9,5 @@ Chaque dossier correspond à un module qui comprends son schéma électrique (ou
 
 ### Le dossier Ressources
 Ce dossier est constitué de toutes les données utilisées pour réaliser le projet. (Qui ont évidement donné le code (car oui ChatGPT n'était pas là encore de souvenir) et les schémas de branchement).
+### Le dossier Code Final
+C'est tout simplement le code principal qui fait tout fonctionner, il résultat de la concaténation des différents codes des modules.
